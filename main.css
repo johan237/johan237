@@ -71,13 +71,8 @@ nav:focus {
 }
 
 .intro {
-    border: 2px solid;
     display: flex;
     flex-direction: column;
-}
-
-.intro>* {
-    border: 1px solid red;
 }
 
 .intro>.intro-about h3 {
@@ -86,10 +81,6 @@ nav:focus {
 
 .intro .intro-image {
     margin-top: 2em;
-}
-
-.about {
-    border: 2px solid green;
 }
 
 .about .container h1 {
@@ -101,7 +92,6 @@ nav:focus {
 .about .container p {
     font-size: 1.5em;
     margin: 0 auto;
-    border: 1px solid red;
     word-spacing: 0.45em;
     margin-bottom: 1.5em;
 }
@@ -110,10 +100,6 @@ nav:focus {
     font-weight: bold;
     font-size: 1.5em;
     color: rgba(0, 0, 0, 1);
-}
-
-.skills {
-    border: 2px solid magenta;
 }
 
 .skills h1 {
@@ -132,7 +118,6 @@ nav:focus {
 }
 
 .skills ul {
-    border: 2px solid blue;
     margin: 2em auto;
 }
 
@@ -187,11 +172,7 @@ small {
     text-align: center;
 }
 
-
-/* .contact {} */
-
 .contact .container {
-    border: 2px solid;
     text-align: center;
 }
 
@@ -265,14 +246,13 @@ button {
     background-color: black;
     padding: 0.35em 0.70em;
     outline: none;
-    border: 2px solid;
     text-align: center;
     margin: .5em auto;
     cursor: pointer;
     transition: 0.3s all ease-in-out;
 }
 
-button:hover,
+border button:hover,
 button:focus,
 button:active {
     background-color: rgba(0, 0, 0, 0.8);
