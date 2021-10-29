@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Johan Tchassem,
-- 👀 I’m interested in coding, arts and philosophy
+- 👀 I’m interested in coding and arts
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on building a web application
 - 📫 How to reach me: email me at johantchassem@gmail.com
